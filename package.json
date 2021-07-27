@@ -1,0 +1,12 @@
+{
+  "name": "wikiscrape",
+  "version": "1.0.0",
+  "description": "Wikipedia web scraper that starts at a wiki page and repeatedly moves to a random link on the page",
+  "main": "index.js",
+  "author": "Tim",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
